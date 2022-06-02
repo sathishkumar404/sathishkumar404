@@ -36,7 +36,16 @@
 .cn5,
 .cn6,
 .cn7,
-.cn8 {
+.cn8,
+.cn9,
+.cn10,
+.cn11,
+.cn12,
+.cn13,
+.cn14,
+.cn15,
+.cn16
+ {
   display: table;
   width: 100%;
   table-layout: fixed;
